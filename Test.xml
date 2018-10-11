@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CaseDetail>
+  <ExternalCaseId xmlns="http://www.adastra.co.uk/webservices/inurseintegration">8230089</ExternalCaseId>
+  <DeviceId xmlns="http://www.adastra.co.uk/webservices/inurseintegration">INURSE_03285</DeviceId>
+  <AppointmentDate xmlns="http://www.adastra.co.uk/webservices/inurseintegration">2018-09-26T05:00:00Z</AppointmentDate>
+  <Patient xmlns="http://www.adastra.co.uk/webservices/inurseintegration">
+    <ExternalPatientId>68180</ExternalPatientId>
+    <NationalNumber>0123456789</NationalNumber>
+    <Forename>AAAAAAA BBBBBBB</Forename>
+    <Surname>CCCCCC</Surname>
+    <Gender>Female</Gender>
+    <DOB>
+      <Year>0000</Year>
+      <Month>00</Month>
+      <Day>00</Day>
+    </DOB>
+    <HomePhone>00000000000</HomePhone>
+    <MobilePhone/>
+    <OtherPhone/>
+    <HomeAddress>
+      <Building/>
+      <Street>1 Aaa Bbbb</Street>
+      <Locality>Cccccccccccc</Locality>
+      <Town>DDDDDDD</Town>
+      <County>Eeee</County>
+      <Postcode>FF00 0FF</Postcode>
+    </HomeAddress>
+  </Patient>
+  <TemplateData xmlns="http://www.adastra.co.uk/webservices/inurseintegration">
+    <TemplateSet>
+      <Name>Basic Details for Mobile</Name>
+      <Code>IBDET___00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS First Contact</Name>
+      <Code>SYS_150001</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS Follow Up Contact</Name>
+      <Code>SYS_ACS002</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS Telephone Contact</Name>
+      <Code>SYS_ACS004</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS Miscellaneous Comm</Name>
+      <Code>SYS_ACS006</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS DNA Contact</Name>
+      <Code>SYS_ACS003</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS Clinical Triage Contact</Name>
+      <Code>SYS_ACS001</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS Assisted Visit Contact</Name>
+      <Code>SYS_ACS005</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS LTS Group Record Contact</Name>
+      <Code>AN00150000</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS STS Group Record Contact</Name>
+      <Code>AN0015001B</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Phlebotomy Follow Up Contact</Name>
+      <Code>PBOT000200</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>ACS CORE Mobility Moving and Handling</Name>
+      <Code>AN0033__00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Accessible Info: Carers/Parents</Name>
+      <Code>SYS_AIS_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Accessible Info: Patients</Name>
+      <Code>SYS_AIS_01</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Accessible Info: Comm. Needs</Name>
+      <Code>SYS_AIS_02</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Consent For Every Contact</Name>
+      <Code>SYS_CONS00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Ethnic Background</Name>
+      <Code>SYS_ETHN01</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Sexuality</Name>
+      <Code>SYS_150004</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Religion and Cultural Beliefs</Name>
+      <Code>SYS_RCB_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Consent for Communications &amp; Data Sharing</Name>
+      <Code>DATA_SHA00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Next Of Kin &amp; Carer Information</Name>
+      <Code>NOK_____00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>1st Generic Risk Assessment</Name>
+      <Code>SYS_RISK00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>2nd Generic Risk Assessment</Name>
+      <Code>SYS_RISK01</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>3rd Generic Risk Assessment</Name>
+      <Code>SYS_RISK02</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Podiatry Diabetic Foot Assessment</Name>
+      <Code>POD0056_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults WoundMatrix Ax.1</Name>
+      <Code>SYS_AWM_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults WoundMatrix Ax.2</Name>
+      <Code>SYS_AWM200</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults WoundMatrix Ax.3</Name>
+      <Code>SYS_AWM300</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults WoundMatrix Ax.4</Name>
+      <Code>SYS_AWM400</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults WoundMatrix Ax.5</Name>
+      <Code>SYS_AWM500</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults WoundMatrix Ax.6</Name>
+      <Code>SYS_AWM600</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Additional Wound Ax Chart</Name>
+      <Code>SYS_WOAS06</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>First Choice Dressing</Name>
+      <Code>FCD001__00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Holistic Assessment</Name>
+      <Code>SYS_HOLI00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>AST CH Comm &amp; Swallowing</Name>
+      <Code>AST0011_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>AST CH Dysfluency</Name>
+      <Code>AST0012_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>AST CH Voice</Name>
+      <Code>AST0014_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults OT Home Visit</Name>
+      <Code>SYS_OT_H01</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Continence Ax Form</Name>
+      <Code>SYS_CONT00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Catheter Assessment</Name>
+      <Code>SYS_ACAW00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Continence Reasses.&amp; EOL Ax.</Name>
+      <Code>SYS_RCCN00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Dietitian Hospital Discharge Summary</Name>
+      <Code>SYS_DIET00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Disabilities</Name>
+      <Code>SYS_AD_D00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Ear Irrigation</Name>
+      <Code>SYS_EAR_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Home First SPA Ax. East</Name>
+      <Code>SYS_SPA_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Pain In Advanced Dementia</Name>
+      <Code>SYS_PAIN00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Pressure Evaluation Outcome</Name>
+      <Code>SYS_PEO_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults Record of Care</Name>
+      <Code>SYS_ROC_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults SLT Hospital Discharge Summary</Name>
+      <Code>SYS_SLT_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Adults SSKIN</Name>
+      <Code>SYS_SSKI00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Baseline Observations</Name>
+      <Code>AN0038__00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Berg Balance Scale</Name>
+      <Code>SYS_BERG00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>CH Bed Rail Assessment</Name>
+      <Code>CHOSP00100</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>CH OT Hot Drink Assessment</Name>
+      <Code>CHOSP00203</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>CH OT Personal Care Assessment</Name>
+      <Code>CHOSP00202</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>CH OT Snack Assessment</Name>
+      <Code>CHOSP00206</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Chaperone Details</Name>
+      <Code>SYS_CHAP00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Confidence In Maintaining Balance (CONFBal)</Name>
+      <Code>SYS_CONF00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>CRB-65 Score</Name>
+      <Code>SYS_CRB_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Current Medications</Name>
+      <Code>SYS_CURM00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Delirium Screening Tool</Name>
+      <Code>SYS_DELI00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Equipment</Name>
+      <Code>SYS_EQUI00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>GP Update</Name>
+      <Code>SYS_GP_U00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Injectable Medicines Clinical Assessment Tool</Name>
+      <Code>SYS_IV_C00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Injectable Medicines Risk Assessment Tool</Name>
+      <Code>SYS_IV_R00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Insulin Administration</Name>
+      <Code>SYS_INSU00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>IPC Infection Status</Name>
+      <Code>SYS_INFS00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Leaflets Window</Name>
+      <Code>SYS_LEAF00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Lower Limb Assessment</Name>
+      <Code>SYS_LLA_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>MCA Consent and Safeguarding</Name>
+      <Code>SYS_MCA_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>MDM Handover</Name>
+      <Code>SYS_MDM_01</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>MDM Time</Name>
+      <Code>SYS_MDM_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Medical Assessment Window</Name>
+      <Code>SYS_150002</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>MFRA-Multifactorial Falls Risk Assessment</Name>
+      <Code>SYS_MFRA00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>MUST - Malnutrition Universal Screening Tool</Name>
+      <Code>SYS_MUST00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Osteo Screen including FRAX</Name>
+      <Code>SYS_OSTE00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Past Medical History and Current Needs</Name>
+      <Code>SYS_PMH_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Preliminary Falls Assessment</Name>
+      <Code>SYS_FALL00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Purpose T</Name>
+      <Code>SYS_PURP00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Referral to Voluntary Organisation</Name>
+      <Code>SYS_RTVO00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Rockwood Frailty Score</Name>
+      <Code>SYS_RFS_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Self-Admin Of Med Comm</Name>
+      <Code>SYS_AOMC00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Six Item Cognitive Impairment Test (6CIT)</Name>
+      <Code>SYS_6CIT00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Tinetti Balance Assessment Tool</Name>
+      <Code>SYS_TINE00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Test Results</Name>
+      <Code>SYS_TST_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Vascular and Neurological Assessment</Name>
+      <Code>SYSVASNE00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>VTE - Adult Risk Assessment for Venous Thromboembolism</Name>
+      <Code>SYS_VTE_00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Vulnerable or Essential Patients</Name>
+      <Code>SYS_VULE00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Falls Efficacy Scale International (FES-I)</Name>
+      <Code>SYS_FESI00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>GAD-7: Generalised Anxiety Disorder 7-Item</Name>
+      <Code>SYS_GAD700</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Laser Treatment</Name>
+      <Code>SYSLASER00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Prisma 7</Name>
+      <Code>SYS_PRIS00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>Pain Score</Name>
+      <Code>SYS_PS__00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>TENA Patient Requirement Form</Name>
+      <Code>SYS_TENA00</Code>
+    </TemplateSet>
+    <TemplateSet>
+      <Name>East Kent Pathway</Name>
+      <Code>SYS_EKEN00</Code>
+    </TemplateSet>
+  </TemplateData>
+  <CaseXml xmlns="http://www.adastra.co.uk/webservices/inurseintegration">
+    <CaseXML xmlns="http://www.hsloffice.co.uk/CrosscareiNurse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.hsloffice.co.uk/CrosscareiNurse D:\CROSSCARE_PROGRAMS\REVSOFT\oinsight\schemas\caseXml.xsd">
+      <CrosscarePatient>
+        <PatientDetails LivesAlone="Not Known">
+          <PatientID>68180</PatientID>
+          <NationalNumber>0123456789</NationalNumber>
+          <DOB>00-Aaa-0000</DOB>
+          <Gender>Female</Gender>
+          <Address>
+            <HouseName>1 Aaa Bbbb</HouseName>
+            <RoadName>Cccccccccccc</RoadName>
+            <Locality>DDDDDDD</Locality>
+            <Town>Eeee</Town>
+            <County>FF00 0FF</County>
+          </Address>
+          <Name>
+            <Title>AAA</Title>
+            <Surname>CCCCCC</Surname>
+            <Forenames>AAAAAAA BBBBBBB</Forenames>
+            <KnownAs>AAAAAAA BBBBBBB</KnownAs>
+          </Name>
+        </PatientDetails>
+        <ContactDetails>
+          <Telephone1>00000000000</Telephone1>
+        </ContactDetails>
+        <CarerDetails>
+          <Carer>
+            <Id>AAAAAAAAA</Id>
+            <Name>Bbbbb Bbbbbbbb</Name>
+          </Carer>
+        </CarerDetails>
+        <GPDetails>
+          <GPPractice>
+            <NationalCode>G82186</NationalCode>
+            <Name>HAMSTREET SURGERY</Name>
+            <Address>
+              <Line1>The Surgery</Line1>
+              <Line2>Ruckinge Rd, Hamstreet</Line2>
+              <Line3>Ashford</Line3>
+              <Line4>Kent</Line4>
+              <Line5>TN26 2NJ</Line5>
+            </Address>
+            <Telephone>01233 730190</Telephone>
+          </GPPractice>
+        </GPDetails>
+        <Referrals/>
+        <Sensitivities/>
+        <Ethnicity/>
+      </CrosscarePatient>
+      <CaseSummaryXML/>
+      <VisitDetails>
+        <Reason>HCA/TRAINED</Reason>
+        <Notes>DAILY DBS - EVENING VISIT</Notes>
+      </VisitDetails>
+    </CaseXML>
+  </CaseXml>
+  <Outcome xmlns="http://www.adastra.co.uk/webservices/inurseintegration">
+    <Code>RED</Code>
+    <Title>Red</Title>
+  </Outcome>
+  <AttachmentList xmlns="http://www.adastra.co.uk/webservices/inurseintegration">
+    <Attachment>
+      <Id>3A6CD6A0-899F-4940-BCC0-A82242CB2936</Id>
+      <Description>21 SEP 2018 [1 Kb] Maureen Farson</Description>
+      <Extension>pdf</Extension>
+    </Attachment>
+    <Attachment>
+      <Id>5CA1E4AA-BCAA-4916-A000-754362D842E6</Id>
+      <Description>26 JUL 2018 [1 Kb] Maureen Farson -DN notes</Description>
+      <Extension>pdf</Extension>
+    </Attachment>
+  </AttachmentList>
+</CaseDetail>
